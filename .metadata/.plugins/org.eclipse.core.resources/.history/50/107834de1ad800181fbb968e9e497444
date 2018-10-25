@@ -8,7 +8,6 @@ public class Htestp
 		int a=10,b=20,c;
 		c=a+b;
 		System.out.println("Sum is: " +c);
-		System.out.println("Sub is: "+(b-a));
 
 	}
 
